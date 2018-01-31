@@ -1,0 +1,16 @@
+{
+  "name": "babel-jsx-self-constant-elements-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Steven Hargrove <steven.hargrove@weather.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.39",
+    "@babel/plugin-syntax-jsx": "^7.0.0-beta.39",
+    "@babel/plugin-transform-react-constant-elements": "^7.0.0-beta.39",
+    "@babel/plugin-transform-react-jsx-self": "^7.0.0-beta.39"
+  },
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
